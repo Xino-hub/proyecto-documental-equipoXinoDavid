@@ -1,2 +1,2 @@
-# proyecto-documental-equipoXinoDavid
-Descripción del repositorio y proyecto 
+# Bienvenido al proyecto
+Este es el proyecto de Andres y David de un servidor Cloud
